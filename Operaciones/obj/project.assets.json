@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\LEGION\\Documents\\Software Avanzado\\MatematicasPrueba\\Operaciones\\operaciones.csproj",
+      "projectUniqueName": "C:\\Users\\LEGION\\Documents\\GitHub\\MatematicasPruebass\\Operaciones\\operaciones.csproj",
       "projectName": "operaciones",
-      "projectPath": "c:\\Users\\LEGION\\Documents\\Software Avanzado\\MatematicasPrueba\\Operaciones\\operaciones.csproj",
+      "projectPath": "C:\\Users\\LEGION\\Documents\\GitHub\\MatematicasPruebass\\Operaciones\\operaciones.csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\LEGION\\Documents\\Software Avanzado\\MatematicasPrueba\\Operaciones\\obj\\",
+      "outputPath": "C:\\Users\\LEGION\\Documents\\GitHub\\MatematicasPruebass\\Operaciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
